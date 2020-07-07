@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.938cb3400ec9101211d80d034cada5ef.js"
+  "/precache-manifest.641850b67f45d11e46840738759442ba.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bamrung"});
